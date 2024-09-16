@@ -1,7 +1,7 @@
-- Addison Rhoades -
+- Addison Rhoades 
 
-- High School and Completing CS Associates -
+- High School and Completing CS Associates 
 
-- Java, Python experience -
+- Java, Python experience 
 
-- Minimal Arduino, HTML, CSS experience -
+- Minimal Arduino, HTML, CSS experience 
